@@ -1,0 +1,7 @@
+A:\source\KG\task05\Implementation05\obj\Debug\Implementation05.csproj.CoreCompileInputs.cache
+A:\source\KG\task05\Implementation05\bin\Debug\Implementation05.dll.config
+A:\source\KG\task05\Implementation05\bin\Debug\Implementation05.dll
+A:\source\KG\task05\Implementation05\bin\Debug\Implementation05.pdb
+A:\source\KG\task05\Implementation05\obj\Debug\Implementation05.dll
+A:\source\KG\task05\Implementation05\obj\Debug\Implementation05.pdb
+A:\source\KG\task05\Implementation05\obj\Debug\Implementation05.csprojAssemblyReference.cache
